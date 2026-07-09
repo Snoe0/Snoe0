@@ -3,7 +3,7 @@
 # Hi, I'm Yuri 👋
 
 <a href="https://yurikorolev.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Freelance+%40+Korrit+Development;AI+%2B+Automation+Enthusiast;RIT+New+Media+Interactive+Development+%2726" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Freelance+%40+Korrit+Development;AI+%2B+Automation+Enthusiast;RIT+Interactive+Development+%2726" alt="Typing SVG" />
 </a>
 
 <br/>
