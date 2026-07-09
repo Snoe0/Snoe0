@@ -74,10 +74,10 @@ I'm also pretty obsessed with AI and figuring out how to fold it into real workf
 
 | Project | What it is | Link |
 | :--- | :--- | :--- |
-| **Korrit Development** | My freelance shop — websites, full-stack apps, and internal tools for clients ($10k+ delivered) | [korrit.dev](https://korrit.dev) |
+| **Korrit Development** | My freelance agency — websites, full-stack apps, and internal tools for clients ($15k+ delivered) | [korrit.dev](https://korrit.dev) |
 | **RR Metrics** | A trading-analytics SaaS that auto-syncs traders' orders via OAuth and surfaces performance metrics (win rate, profit factor, best conditions) | [rrmetrics.com](https://rrmetrics.com) |
 | **RAMPAGE!** | An Arduino-powered alternative-controller arcade installation, submitted to alt.ctrl.GDC 2026 | [rampage.framer.website](https://rampage.framer.website) |
-| **Comically Large** | A projection-mapped collaborative drawing game, showcased at Imagine RIT to 1,200+ attendees | [comicallylarge.framer.website](https://comicallylarge.framer.website) |
+| **Comically Large** | A projection-mapped collaborative drawing game, showcased at Imagine RIT to 1,000+ attendees | [comicallylarge.framer.website](https://comicallylarge.framer.website) |
 
 ---
 
