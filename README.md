@@ -1,100 +1,35 @@
-<div align="center">
-
-# Hi, I'm Yuri 👋
-
-<a href="https://yurikorolev.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Freelance+%40+Korrit+Development;AI+%2B+Automation+Enthusiast;RIT+Interactive+Development+%2726" alt="Typing SVG" />
-</a>
-
-<br/>
+# Hi, I'm Yuri
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yurikorolev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuriikorolev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuri@yurikorolev.com)
 
-</div>
+I'm a full-stack developer in New York and a 2026 grad of RIT's New Media Interactive Development program. Right now I'm building [Korrit](https://korrit.app), an operations platform for architecture firms. It puts CRM, project management, time tracking, invoicing, expenses and payroll in one place.
 
----
+I've also freelanced since 2023: podcast sites, storefronts, internal tooling for an architecture firm, a couple of mobile app MVPs. I use AI agents for a lot of the routine work. I built an MCP server so they can handle scaffolding, refactors and testing, and I keep a test-driven setup that checks the output before I call anything done.
 
-### 🚀 About Me
+Most of what I build is private. Client projects, Korrit and my trading tools all live in private repos, and on my own projects I usually push straight to main, so the repo list and contribution graph here only show part of it.
 
-I'm a full-stack developer and recent RIT grad who likes building things people actually use. Most of my time goes into **[Korrit Development](https://korrit.dev)**, my freelance shop, where I build websites, full-stack apps, and internal tools for clients — everything from podcast sites and storefronts to internal tooling for an architecture firm and a couple of mobile app MVPs.
+## Projects
 
-I'm also pretty obsessed with AI and figuring out how to fold it into real workflows. I've built out systems that help me run the business side of freelancing — feature requests, invoicing, outreach research — along with a test-driven setup that checks my work before I call anything done.
+| Project | What it is |
+| :--- | :--- |
+| [Korrit](https://korrit.app) | Operations platform for architecture firms. Next.js, TypeScript, Tailwind. Private repo. |
+| [RR Metrics](https://github.com/Snoe0/rrmetrics) | Open-source, self-hosted trading journal. It syncs trades from your broker and tracks win rate, profit factor and the conditions you trade best in. Apache 2.0, with a site at [rrmetrics.com](https://rrmetrics.com). |
+| [notch](https://github.com/Snoe0/notch) | A scratchpad, to-do list and media controls that live in the MacBook notch. Swift. |
+| [Instatic](https://github.com/CoreBunch/Instatic) | Open-source visual CMS I contribute to. I have two PRs open, including a [guided editor tour](https://github.com/CoreBunch/Instatic/pull/406). |
+| [Comically Large](https://comicallylarge.framer.website) | Collaborative drawing game where oversized pencils draw on a projection-mapped canvas. I wrote the Python computer vision that tracks each pencil. Shown at Imagine RIT and the Interactive Media Symposium, where 800+ people played it. |
+| [RAMPAGE!](https://rampage.framer.website) | Alt-controller arcade game where you steer by pulling a giant head's hair. I wrote the Unity C# and the code that turns sensor input into gameplay. |
 
-> 🔒 **A heads-up on the repos here:** a lot of my bigger work isn't public. Client projects and finance/trading tools live in private repositories, so this profile is only a slice of what I actually build.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
-
-**Data & Infrastructure**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**AI & Creative Tech**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📌 Featured Work
-
-| Project | What it is | Link |
-| :--- | :--- | :--- |
-| **Korrit Development** | My freelance agency — websites, full-stack apps, and internal tools for clients ($15k+ delivered) | [korrit.dev](https://korrit.dev) |
-| **RR Metrics** | A trading-analytics SaaS that auto-syncs traders' orders via OAuth and surfaces performance metrics (win rate, profit factor, best conditions) | [rrmetrics.com](https://rrmetrics.com) |
-| **RAMPAGE!** | An Arduino-powered alternative-controller arcade installation, submitted to alt.ctrl.GDC 2026 | [rampage.framer.website](https://rampage.framer.website) |
-| **Comically Large** | A projection-mapped collaborative drawing game, showcased at Imagine RIT to 1,000+ attendees | [comicallylarge.framer.website](https://comicallylarge.framer.website) |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snoe0&show_icons=true&count_private=true&include_all_commits=true&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snoe0&layout=compact&count_private=true&title_color=00A8FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Always happy to talk shop — reach out through any of the links up top.*
-
-</div>
+That's the day-to-day. I also write Python, Swift and C#, and I've shipped Unity and Arduino projects.
