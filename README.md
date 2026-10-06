@@ -17,7 +17,6 @@ Most of what I build is private. Client projects, Korrit and my trading tools al
 | [Korrit](https://korrit.app) | Operations platform for architecture firms. Next.js, TypeScript, Tailwind. Private repo. |
 | [RR Metrics](https://github.com/Snoe0/rrmetrics) | Open-source, self-hosted trading journal. It syncs trades from your broker and tracks win rate, profit factor and the conditions you trade best in. Apache 2.0, with a site at [rrmetrics.com](https://rrmetrics.com). |
 | [notch](https://github.com/Snoe0/notch) | A scratchpad, to-do list and media controls that live in the MacBook notch. Swift. |
-| [Instatic](https://github.com/CoreBunch/Instatic) | Open-source visual CMS I contribute to. I have two PRs open, including a [guided editor tour](https://github.com/CoreBunch/Instatic/pull/406). |
 | [Comically Large](https://comicallylarge.framer.website) | Collaborative drawing game where oversized pencils draw on a projection-mapped canvas. I wrote the Python computer vision that tracks each pencil. Shown at Imagine RIT and the Interactive Media Symposium, where 800+ people played it. |
 | [RAMPAGE!](https://rampage.framer.website) | Alt-controller arcade game where you steer by pulling a giant head's hair. I wrote the Unity C# and the code that turns sensor input into gameplay. |
 
