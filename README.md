@@ -4,11 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuriikorolev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuri@yurikorolev.com)
 
-I'm a full-stack developer in New York and a 2026 grad of RIT's New Media Interactive Development program. Right now I'm building [Korrit](https://korrit.app), an operations platform for architecture firms. It puts CRM, project management, time tracking, invoicing, expenses and payroll in one place.
+I'm a full-stack developer in New York and a 2026 grad of RIT's New Media Interactive Development program. Right now I'm working freelance running [Muntin Studio](https://muntin.studio), a tech partner for architecture firms. 
 
-I've also freelanced since 2023: podcast sites, storefronts, internal tooling for an architecture firm, a couple of mobile app MVPs. I use AI agents for a lot of the routine work. I built an MCP server so they can handle scaffolding, refactors and testing, and I keep a test-driven setup that checks the output before I call anything done.
-
-Most of what I build is private. Client projects, Korrit and my trading tools all live in private repos, and on my own projects I usually push straight to main, so the repo list and contribution graph here only show part of it.
+Most of what I build is private. Client projects, business projects, and my trading tools all live in private repos, and on my own projects I rarely use PRs, so the repo list and contribution graph here only show part of it.
 
 ## Projects
 
@@ -41,5 +39,3 @@ Most of what I build is private. Client projects, Korrit and my trading tools al
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-
-I also write Swift and C#, and I've shipped Unity and Arduino projects.
